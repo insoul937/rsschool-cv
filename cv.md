@@ -22,13 +22,14 @@
         <li><a href="https://tessellastudio.com/" target="_blank">Tessella Design Studio</a> - Front-End Developer full-time (Employed since 2013)</li>
      </ul>
 </p>
-<p><strong>Latest projects:</strong></p>
+<p><strong>Latest projects:</strong>
     <ul>
         <li><a href="https://uccigroup.com/">https://uccigroup.com/</a></li>
         <li><a href="https://oshdubai.com/">https://oshdubai.com/</a></li>
         <li><a href="http://befit.uz/en">http://befit.uz/en</a></li>
         <li><a href="http://leosgarage.ae/">http://leosgarage.ae/</a></li>
       </ul>
+      </p>
 
     
 
