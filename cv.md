@@ -1,16 +1,38 @@
-What should a Junior Developer Resume contain?
+<h1>CV for EPAM</h1>
 
-! Important: write your Resume in English if you can, if possible
+<p><strong>First Name:</strong> Dmitriy</p>
+<p><strong>Last Name:</strong> Kaduba</p>
+<p><strong>Date of Birth:</strong> 02.09.1993</p>
+<p><strong>Address:</strong> Tashkent, Uzbekistan</p>
+<p><strong>Phone Number:</strong> <a href="tel:+998974542999">(998 97) 454 29 99</a></p>
+<p><strong>Summary:</strong> Experience front end development for more than 4 years. I want to increase my knowledge.</p>
+<p><strong>Skills:</strong> 
+    <ul>
+        <li>HTML, CSS, Jquery, Javascript, SASS, Bootstrap 3, Bootstrap 4, Responsive, Cross-Browser compatibility</li>
+        <li>Worked with React-native</li>
+        <li>PHP,Wordpress, MySQL</li>
+        <li>Photoshop, Sketch, Figma</li>
+        <li>Gulp,git</li>
+     </ul>
+</p>
+<p><strong>Experience:</strong>
+    <ul>
+        <li>Stylemix Web Studio - Front-End Developer full-time (2012-2013)</li>
+        <li>Crazy Web Studio - Front-End Developer freelance </li>
+        <li><a href="https://tessellastudio.com/" target="_blank">Tessella Design Studio</a> - Front-End Developer full-time (Employed since 2013)</li>
+     </ul>
+</p>
+<p><strong>Latest projects:</strong></p>
+    <ul>
+        <li><a href="https://uccigroup.com/">https://uccigroup.com/</a></li>
+        <li><a href="https://oshdubai.com/">https://oshdubai.com/</a></li>
+        <li><a href="http://befit.uz/en">http://befit.uz/en</a></li>
+        <li><a href="http://leosgarage.ae/">http://leosgarage.ae/</a></li>
+      </ul>
 
-1. First Name, Last Name (real ones)
-2. Contact Info (add several ways to contact you)
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Code examples (LATEST)
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+    
+
+
+
+
+<p><strong>Education:</strong> courses from HTMLAcademy, Training Center from Uzbekistam HTML,CSS,JS</p>
